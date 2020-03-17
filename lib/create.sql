@@ -6,4 +6,4 @@ CREATE TABLE bears (
     temperament TEXT,
     alive TEXT,
     id INTEGER
-    )
+    );
